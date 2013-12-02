@@ -26,7 +26,7 @@ function tfuse_freebies($atts, $content = null) {
                     <h4>'. do_shortcode($content).'</h4>
                     <div class="space"></div>
                     <a href="'.$link.'" class="btn button_styled_medium btn_'.$btncolor.'">
-                        <span style="color:'.$colortitle.';">'.__('Get Them All','tfuse').'</span>
+                        <span style="color:'.$colortitle.';">'.__('View the Library','tfuse').'</span>
                     </a>
                     <div class="space"></div>  
                 </div>';

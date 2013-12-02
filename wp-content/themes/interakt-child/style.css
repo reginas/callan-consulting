@@ -24,7 +24,7 @@ div.header-title-content.text-center h1 span.text-orange {color:#b12128 !importa
 
 div#topmenu.menu-menu-container {margin-top:51px;}
 
-#topmenu .dropdown li a:hover, #topmenu .dropdown li.current-menu-item a {height: 64px;border-bottom: 3px solid #b12128 !important;}
+#topmenu .dropdown li a:hover, #topmenu .dropdown li.current-menu-item a {color: #b12128 !important;height: 64px;border-bottom: 3px solid #b12128 !important;}
 #topmenu .dropdown li ul {top:64px;}
 
   
