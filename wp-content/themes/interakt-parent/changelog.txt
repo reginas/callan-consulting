@@ -1,0 +1,51 @@
+*** Interakt App Changelog ***
+
+ 2013.08.02 - version 1.1.5
+ * wp 3.6 bugs solved
+    interakt-parent/header-navigation.php
+
+ 2013.06.17 - version 1.1.4
+ * twitter api 1.1
+    interakt-parent/header-navigation.php
+    interakt-parent/install/wordpress-interakt.xml_.txt
+
+ 2013.05.03 - version 1.1.3
+ * wpml translation on homepage
+    interakt-parent/header-image.php
+    interakt-parent/header-map.php
+    interakt-parent/header-navigation.php
+ * extented function tfuse_rewrite_worpress_reading_options
+    interakt-parent/page.php
+ * fixed error in IE
+    interakt-parent/css/flexslider.css
+    interakt-parent/style.css
+
+ 2013.04.02 - version 1.1.2
+ * slider pagination on iphone
+    interakt-parent/screen.css
+ * new tranlslation files
+    interakt-parent/languages/interakt.mo
+    interakt-parent/languages/interakt.po
+ * menu level 4
+    interakt-parent/screen.css
+
+ 2013.03.25 - version 1.1.1
+ * translated left characters
+    interakt-parent/comments.php
+    interakt-parent/js/general.js
+    interakt-parent/style.css
+    interakt-parent/languages/interakt.mo
+    interakt-parent/languages/interakt.po
+ * added menu level 4
+    interakt-parent/screen.css
+ * freebies bug solved and work slider
+    interakt-parent/content-single-work.php
+ * added clear div on archive file
+    interakt-parent/archive-work.php
+
+ 2013.03.06 - version 1.1
+ * theme color change
+ * css changes
+
+  2013.03.05 - version 1.0
+  * First release!

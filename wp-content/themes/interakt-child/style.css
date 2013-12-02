@@ -1,0 +1,57 @@
+/*
+Theme Name: Interakt Child
+Theme URI: http://themefuse.com/demo/wp/interakt/
+Description: Child theme for the Interakt theme. Child themes are the recommended way of making modifications to a theme. <a href="http://codex.wordpress.org/Child_Themes">Reade More</a>
+Author: ThemeFuse
+Author URI: http://themefuse.com
+Template: interakt-parent
+*/
+
+@import url("../interakt-parent/style.css");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("http://fonts.googleapis.com/css?family=Fauna+One");
+@import url("http://fonts.googleapis.com/css?family=Glegoo");
+@import url("http://fonts.googleapis.com/css?family=Istok+Web:400,700");
+body, h1 {font-family: 'Source Sans Pro', sans-serif; font-size:15px;}
+
+h2, h3, h4, h5 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+.header-nav {margin:0 auto 15px auto; width:100% !important;}
+.black-background {background: #818181 url('images/bg/box_gray.png') 3px -45px;}
+
+div.header-title-content.text-center h1 {text-align:left !important; font-size:200%; color:#b22128;margin-left:20px;}
+
+div.header-title-content.text-center h1 span.text-orange {color:#b12128 !important;}
+
+div#topmenu.menu-menu-container {margin-top:51px;}
+
+#topmenu .dropdown li a:hover, #topmenu .dropdown li.current-menu-item a {height: 64px;border-bottom: 3px solid #b12128 !important;}
+#topmenu .dropdown li ul {top:64px;}
+
+  
+#topmenu .dropdown {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;font-weight:100;}
+
+#topmenu .dropdown li a span {font-family: 'Helvetica Neue', helvetica, arial, sans-serif !important;font-weight:100;}
+
+#topmenu .dropdown li ul li a {font-family: 'Helvetica Neue', helvetica, arial, sans-serif !important;}
+#topmenu .dropdown li ul li.first {border-top: 3px solid #b12128 !important;}
+
+span.text-orange {color: #b12128;}
+
+h2.text-bold.text-darkgray {font-size:1.2rem;}
+h2.text-bold.text-darkgray span {color:#b22128;}
+
+.work-item .work-title, .services-item .services-title {background: #7c99a9;}
+.team-text {background: #494489;}
+.text-orange {color: #494489 !important;}
+.btn_pink {
+  background-color: #F25D3C;
+  background-image: -webkit-linear-gradient(bottom, #f25d3c, #ff7658);
+  background-image: -linear-gradient(bottom, #f25d3c, #ff7658);
+  background-image: -moz-linear-gradient(bottom, #f25d3c, #ff7658);
+  background-image: -o-linear-gradient(bottom, #f25d3c, #ff7658);
+  color: #fff !important;
+}
+.arrow-top {border-color: transparent transparent transparent #7c99a9;}
+	
+.work-item:hover .corner-orange-top, .services-item:hover .corner-orange-top ,.work-item:hover .arrow-top, .services-item:hover .arrow-top {background: transparent url(images/corner_gray.png) no-repeat 0 0;}
+.box_orange {background: #7c99a9 !important;}

@@ -1,0 +1,63 @@
+*** Theme Config Changelog ***
+
+ 2013.08.02 - version 1.1.5
+ * wp 3.6 bugs solved
+    interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/map.php
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php
+
+ 2013.06.17 - version 1.1.4
+ * reservation form column
+    interakt-parent/theme_config/extensions/reservationform/configurations/base_cfg.php
+ * twitter. api v 1.1
+    interakt-parent/theme_config/extensions/reservationform/configurations/base_cfg.php
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/twitter.php
+    interakt-parent/theme_config/options/admin_options.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php
+
+ 2013.05.03 - version 1.1.3
+ * featured image on posts
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/members.php
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php
+ * wpml translation on homepage
+    interakt-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+    interakt-parent/theme_config/theme_includes/THEME_HEADER_CONTENT.php
+ * header content on homepage
+    interakt-parent/theme_config/theme_includes/THEME_HEADER_CONTENT.php
+ * extented function tfuse_rewrite_worpress_reading_options
+    interakt-parent/theme_config/theme_includes/AJAX_CALLBACKS.php
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+
+ 2013.04.02 - version 1.1.2
+ * shortcode freebies si slide works
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/freebies.php
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/slide_works.php
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * new translation problem solved
+    interakt-parent/theme_config/widgets/TFuse_Widget_Search.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php
+ * slide works shortcode
+    interakt-parent/theme_config/extensions/shortcodes/shortcodes/slide_works.php
+
+ 2013.03.25 - version 1.1.1
+ * added menu level 4
+    interakt-parent/theme_config/common_includes/MENU.php
+ * freebies bug solved and work slider
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * added clear div on archive file
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+ * tag cloud widget bug solved
+    interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php
+    interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php
+
+ 2013.03.06 - version 1.1
+ * theme color change
+ * css changes
+
+ 2013.03.05 - version 1.0
+ * First release!

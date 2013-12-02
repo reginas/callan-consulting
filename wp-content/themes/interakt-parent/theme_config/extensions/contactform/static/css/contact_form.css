@@ -1,0 +1,118 @@
+.tfuse_captcha_reload{
+    background-image:url(../images/reload.png) !important;
+    background-repeat: no-repeat !important;
+    height: 18px !important;
+    margin-top: 15px !important;
+    max-width: 16px !important;
+    vertical-align: top;
+    background-color: transparent !important;
+    border:none !important;
+    width: 20px;
+}
+#contactForm .field_text,#contactForm .input_styled, #contactForm .field_select{
+    float: left;
+    margin-right: 20px;
+    z-index: 999;
+}
+#contactForm .label_title,#contactForm .radiolabel{
+    font-style: normal;
+}
+#sending{
+    margin: 10px 5px;
+}
+.cusel span,.cuselText{
+    font-style: normal;
+}
+#contactForm .rowSubmit{
+    float: right;
+}
+
+/* preview */
+#TB_ajaxContent .row .col_1_2 {
+    width: 280px;
+}
+#TB_ajaxContent .field_select{
+    margin-right: 20px;
+}
+#TB_ajaxContent .row .omega, .col.omega {
+    margin-right: 0;
+}
+#TB_ajaxContent .row .alpha, .col.alpha {
+    margin-left: 0;
+}
+#TB_ajaxContent .col {
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    position: relative;
+}
+#TB_ajaxContent .comment-form .inputtext, #TB_ajaxContent .comment-form .textarea {
+    background: none repeat scroll 0 0 white !important;
+    border: 1px solid #EAEAEA;
+    border-radius: 0 0 0 0;
+    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.04) inset;
+    color: #CCCCCC;
+    font: 13px 'OpenSansRegular';
+    margin: 3px 0;
+    height: 39px;
+    padding: 11px 5px;
+}
+#TB_ajaxContent .comment-form .textarea {
+    height: 70px;
+}
+#TB_ajaxContent .btn_pink {
+    background-color: #F25D3C;
+    background-image: -moz-linear-gradient(center bottom , #F25D3C, #FF7658);
+    color: #FFFFFF !important;
+}
+#TB_ajaxContent .btn, #TB_ajaxContent .entry .btn {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 1px 1px #000000;
+}
+#TB_ajaxContent .btn_gray {
+    background-color: #F6F7F9;
+    background-image: -moz-linear-gradient(center bottom , #EAEBEE, #F6F7F9);
+    color: #666666 !important;
+}
+#TB_ajaxContent input[type="reset"], #TB_ajaxContent input[type="submit"],#TB_ajaxContent input[type="button"],#TB_ajaxContent button {
+    border: medium none;
+    color: #FFFFFF;
+    font-family: 'OpenSansRegular',sans-serif;
+    font-size: 13px;
+    margin: 10px 5px;
+    text-align: center;
+}
+#TB_ajaxContent .button_link_medium,#TB_ajaxContent .button_styled_medium {
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 1px #666666;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 9px 15px;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: none !important;
+}
+#TB_ajaxContent .alignright {
+    float: right;
+}
+#TB_ajaxContent input[type="radio"],#TB_ajaxContent input[type="checkbox"] {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#TB_ajaxContent input[type="checkbox"]{
+    margin-top: 3px;
+}
+#TB_ajaxContent .rowSubmit{
+    float: right;
+}
+#TB_ajaxContent .captcha{
+    min-width: 150px;
+}
+#TB_ajaxContent #header_message, #TB_ajaxContent label
+{
+    color: #555555;
+}

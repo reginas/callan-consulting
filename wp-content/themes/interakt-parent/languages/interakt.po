@@ -1,0 +1,2467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interakt\n"
+"POT-Creation-Date: 2013-05-15 13:56+0200\n"
+"PO-Revision-Date: 2013-05-15 13:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: themefuse <hello@themefuse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\wamp1\\wamp\\www\\agency.md\\wp-content\\themes"
+"\\interakt-parent\n"
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/404.php:18
+msgid "Page not found"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/404.php:19
+msgid "The page you were looking for doesn&rsquo;t seem to exist"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-content.php:36
+msgid "Browsing "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-content.php:37
+msgid " articles"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-content.php:42
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-jobs.php:27
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-services.php:31
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-tags.php:25
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/archive-work.php:44
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/search.php:34
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments-template.php:21
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:123
+msgid "Pingback:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments-template.php:46
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/AJAX_CALLBACKS.php:148
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:61
+msgid "Response to this project"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:62
+msgid " characters left"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:72
+msgid "You must be"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:72
+msgid "logged in"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:72
+msgid "to post a comment."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:81
+msgid "Logged in as"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:81
+msgid "Log out of this account"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:81
+msgid "Logout"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:86
+msgid "Name"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:90
+msgid "Email "
+msgstr "aaaa"
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:96
+msgid "You can use these tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:102
+msgid "Post comment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:118
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:132
+msgid "Responses"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:132
+msgid "Response"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:147
+msgid "See More"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/comments.php:152
+msgid "No comments yet."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-author.php:35
+msgid "Author Description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-author.php:43
+msgid "CONTACT THE AUTHOR:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-single-careers.php:20
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:41
+msgid "Apply"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-single-work.php:37
+msgid "Download"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-single.php:19
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blog.php:18
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blogfirst.php:17
+msgid "by "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-single.php:37
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blogfirst.php:30
+msgid "comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/content-single.php:37
+msgid "comment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:38
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:80
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:110
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:140
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:172
+msgid "We"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:38
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:80
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:110
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:140
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:172
+msgid "are"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:38
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:80
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:110
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:140
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-map.php:172
+msgid "here"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/header-services.php:25
+msgid "More.."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blogfirst.php:30
+msgid "Comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blogfirst.php:30
+msgid "Comment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-blogfirst.php:32
+msgid "Read more"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:18
+msgid "Location: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:21
+msgid "Departament: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:23
+msgid "Close"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:24
+msgid "Details"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:30
+msgid "Type: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-jobs.php:33
+msgid "Min Experience: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/listing-service.php:32
+msgid "View More"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/searchform.php:2
+msgid "Search widget:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:303
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:325
+msgid "Select a category:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:349
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:371
+msgid "Select a page:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:415
+msgid "Select a tag:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:486
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:493
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:503
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:321
+msgid "Remove"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:500
+msgid "Type here to search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:509
+msgid "Tip: Save options to get rid of invalid ids"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:706
+msgid "Upload"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:963
+#, php-format
+msgid "Selected %%number%%  item"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:963
+#, php-format
+msgid "Selected %%number%% items"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:1016
+msgid "show"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/OPTIGEN.php:1016
+msgid "hide"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/core/UPDATER.php:161
+msgid "Proceed"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/export/TF_EXPORT.php:4
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/TF_IMPORT.php:4
+msgid "Direct access forbidden."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/export/views/after_download.php:7
+msgid "Failed to export XML file"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:62
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:71
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:134
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:143
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:220
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:224
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:233
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:63
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/TFUSE_WP_IMPORT.php:460
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:933
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/views/install_error.php:7
+msgid "Failed to import XML file"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:42
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:67
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:72
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:262
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:225
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:241
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:266
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:292
+msgid "Assign Authors"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:293
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:295
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:305
+msgid "Import Attachments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:308
+msgid "Download and import file attachments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:325
+msgid "Import author:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:336
+msgid "or create new user with login name:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:339
+msgid "as a new user:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:347
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:349
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:350
+msgid "- Select -"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:400
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:449
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:487
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:531
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:657
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:553
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:574
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:629
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:779
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:786
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:852
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:865
+msgid "Invalid file type"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:909
+msgid "Remote server did not respond"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:915
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:927
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/import/wordpress-importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:228
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:232
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:255
+msgid "Edit Menu Item"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:264
+msgid "URL"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:271
+msgid "Navigation Label"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:277
+msgid "Title Attribute"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:284
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:289
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:295
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:301
+msgid "Description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:305
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:316
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/megamenu/helpers/TF_MENU_WALKER.php:321
+msgid "Cancel"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:147
+msgid "Add New "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:148
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:66
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:149
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:236
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:292
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:322
+msgid "Nothing found"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:149
+msgid "All "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:927
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:963
+msgid "Zone"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:936
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:972
+msgid "Priority"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK.php:982
+msgid "Features Display Priority"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:38
+#, php-format
+msgid "Error importing seek index table: Cannot find \"%s\" file in \"%s\""
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:53
+#, php-format
+msgid ""
+"Skipping seek index table import: Table \"%s\" already exists and is not "
+"empty"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/TF_SEEK_IMPORT.php:73
+#, php-format
+msgid ""
+"Error importing Seek index table: No sql read from file \"%s\" in \"%s\""
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/views/drag_options_to_zones.php:21
+msgid "No Zone"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seek/views/drag_options_to_zones.php:157
+msgid ""
+"Drag features in this box if you don't want them to appear on the website"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:403
+msgid "Archive"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:435
+msgid "Author Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:443
+msgid "Date Archive"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:477
+msgid "Search Results for "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:477
+#, php-format
+msgid "'%s'"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:491
+msgid "Page Not Found - 404 error"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:565
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:614
+#, php-format
+msgid "Title for %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:566
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:615
+#, php-format
+msgid ""
+"Enter custom title for %s. These settings may be overridden for individual "
+"%s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:573
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:622
+#, php-format
+msgid "Description for %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:574
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:623
+#, php-format
+msgid ""
+"Enter custom description for %s. These settings may be overridden for "
+"individual %s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:583
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:631
+#, php-format
+msgid "Keywords for %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:584
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:632
+#, php-format
+msgid ""
+"Enter custom meta keywords for %s. These settings may be overridden for "
+"individual %s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:640
+#, php-format
+msgid "Use noindex for %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:641
+#, php-format
+msgid "Enable or disable using of noindex for %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:656
+msgid "XML Sitemaps"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:659
+msgid "Enable XML Sitemaps"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:660
+msgid ""
+"Enable or disable XML Sitemaps. Sitemap will be generated when a new content "
+"will be added."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:675
+msgid ""
+"Please check the appropriate box below if there's a post type that you do "
+"<b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:687
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:714
+#, php-format
+msgid "Exclude %s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:702
+msgid ""
+"Please check the appropriate box below if there's a taxonomy that you do "
+"<b>NOT</b> want to include in your sitemap"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:732
+msgid "Use META keywords"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:733
+msgid "Use META keywords."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:740
+msgid "Use Canonical URLs"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:741
+msgid "Use Canonical URLs."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:748
+msgid "Title separator"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:749
+msgid ""
+"Title separator. Will be used by default to generate titles if some titles "
+"are not set"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:757
+msgid "General META"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:760
+msgid "General Description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:761
+msgid ""
+"Enter general description for all the pages (categories, arhives,  posts, "
+"etc)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:769
+msgid "General Keywords"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:770
+msgid ""
+"Enter general keywords for all the pages (categories, arhives,  posts, etc)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:780
+msgid "Title for Homepage"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:781
+msgid "Enter custom title for Homepage."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:787
+msgid "Description for Homepage"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:788
+msgid "Enter custom description for Homepage."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:796
+msgid "Keywords for Homepage"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:797
+msgid "Enter custom keywords for Homepage."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:807
+msgid "Title for Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:808
+msgid ""
+"Enter custom title for Archives. This title may be overridden by other "
+"specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:814
+msgid "Description for Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:815
+msgid ""
+"Enter custom description for Archives. This description may be overridden by "
+"other specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:822
+msgid "Keywords for Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:823
+msgid ""
+"Enter custom keywords for Archives. This keywords may be overridden by other "
+"specific archives (tags, categories, etc)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:831
+msgid "Use noindex for Archive"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:832
+msgid "Enable or disable using of noindex for Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:840
+msgid "Title for Author"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:841
+msgid "Enter custom title for Author Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:847
+msgid "Description for Author"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:848
+msgid "Enter custom description for Author Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:855
+msgid "Keywords for Author"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:856
+msgid "Enter custom keywords for Author Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:864
+msgid "Use noindex for Author"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:865
+msgid "Enable or disable using of noindex for Author Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:873
+msgid "Title for Date"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:874
+msgid "Enter custom title for Date Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:880
+msgid "Description for Date"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:881
+msgid "Enter custom description for Date Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:888
+msgid "Keywords for Date"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:889
+msgid "Enter custom keywords for Date Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:897
+msgid "Use noindex for Date"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:898
+msgid "Enable or disable using of noindex for Date Archives."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:906
+msgid "Title for Attachment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:907
+msgid "Enter custom title for Attachment."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:913
+msgid "Description for Attachment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:914
+msgid "Enter custom description for Attachment."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:922
+msgid "Keywords for Attachment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:923
+msgid "Enter custom keywords for Attachment."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:933
+msgid "Title for Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:934
+msgid "Enter custom title for Search."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:940
+msgid "Description for Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:941
+msgid "Enter custom description for Search."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:948
+msgid "Keywords for Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:949
+msgid "Enter custom keywords for Search."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:957
+msgid "Use noindex for Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:958
+msgid "Enable or disable using of noindex for Search."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:966
+msgid "Title for 404"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:967
+msgid "Enter custom title for 404."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:973
+msgid "Description for 404"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:974
+msgid "Enter custom description for 404."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:982
+msgid "Keywords for 404"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:983
+msgid "Enter custom keywords for 404."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:993
+msgid "Title for Paged"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:994
+msgid "Enter custom title suffix for Paged."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1013
+msgid "Help"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1020
+msgid ""
+"These tags can be included and will be replaced when a page is displayed."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1024
+msgid "Replaced with the date of the post/page"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1028
+msgid "Replaced with the title of the post/page"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1032
+msgid "The site's name"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1036
+msgid "The site's tagline / description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1040
+msgid ""
+"Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1044
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1048
+msgid "Replaced with the current tag/tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1052
+msgid "Replaced with the post categories (comma separated)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1056
+msgid "Replaced with the category description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1060
+msgid "Replaced with the tag description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1064
+msgid "Replaced with the term description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1068
+msgid "Replaced with the term name"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1072
+msgid "Replaced with the post/page modified time"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1076
+msgid "Replaced with the post/page ID"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1080
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1084
+msgid "Replaced with the post/page author's userid"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1088
+msgid "Replaced with the current search phrase"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1092
+msgid "Replaced with the current time"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1096
+msgid "Replaced with the current date"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1100
+msgid "Replaced with the current month"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1104
+msgid "Replaced with the current year"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1108
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1112
+msgid "Replaced with the current page total"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1116
+msgid "Replaced with the current page number"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1120
+msgid "Attachment caption"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1153
+msgid "SEO"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1159
+msgid "Page Title"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1160
+msgid "Enter your prefered custom title or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1166
+msgid "Page Description"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1167
+msgid ""
+"Enter your prefered custom description or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1174
+msgid "Page Keywords"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/seo/TF_SEO.php:1175
+msgid "Enter your prefered custom keywords or leave blank for deafault value."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/extensions/slider/TF_SLIDER.php:410
+msgid "Select Slider:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/GENERAL.php:642
+msgid "Exclude from slider"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/GENERAL.php:644
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/GENERAL.php:650
+msgid "Yes"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/GENERAL.php:648
+msgid "Set as main"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/INTERFACE.php:41
+msgid "ThemeFuse Download Group"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/INTERFACE.php:63
+msgid "ThemeFuse Gallery Group"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/TFORM.php:68
+msgid "Submit"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:23
+#, php-format
+msgid "Updating %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:24
+msgid "The package is at the latest version."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:25
+#, php-format
+msgid "Removing the old version of the %s&#8230;"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:26
+msgid "Could not remove the old version of the "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:27
+msgid "Update failed."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:28
+msgid "Package updated successfully."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:29
+msgid "Backing up files&#8230;"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:30
+msgid "Could not create backup directory."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/helpers/UPGRADER.php:35
+msgid "Return to Framework page"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/framework_header.php:25
+msgid "Framework"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/framework_header.php:29
+msgid "ThemeMods"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/framework_header.php:33
+msgid "Templates"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/page_framework_options.php:19
+msgid "Save All Changes"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/page_framework_options.php:32
+msgid "Reset All Options"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/page_framework_options.php:32
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/update_page.php:3
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:3
+msgid "ThemeFuse Updates"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:6
+#, php-format
+msgid "Last checked on %1$s at %2$s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:7
+msgid "Check Again"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:13
+#, php-format
+msgid "You have the latest version of %s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:17
+#, php-format
+msgid ""
+"You have the latest version of %s. You do not need to update. However, if "
+"you want to re-install current version, you can do so automatically."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:21
+#, php-format
+msgid ""
+"Upgrading %1$s will overwrite the current installed version of this theme. "
+"We recommend backing up your theme files before reinstalling the %1$s."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:25
+msgid "Re-install Now"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:30
+msgid ""
+"<strong>Important:</strong> before updating, please <a href=\"http://codex."
+"wordpress.org/WordPress_Backups\" target=\"_blank\">back up your database "
+"and files</a>. For help with updates, visit the <a href=\"http://codex."
+"wordpress.org/Updating_WordPress\" target=\"_blank\">Updating WordPress</a> "
+"Codex page."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:34
+#, php-format
+msgid "An updated version of %s is available."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:38
+msgid "Update Now"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:80
+#, php-format
+msgid ""
+"<strong>Please Note:</strong> Any customizations you have made to theme "
+"files will be lost. Please consider using <a href=\"%s\">child themes</a> "
+"for modifications."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/framework/views/updater/upgrade_preamble.php:86
+msgid ""
+"While your site is being updated, it will be in maintenance mode. As soon as "
+"your updates are complete, your site will return to normal."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:21
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:59
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:60
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:142
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:143
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:229
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:230
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:285
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:315
+msgid "Add New"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:22
+msgid "Add New Reservation"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:23
+msgid "Edit Reservation info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:24
+msgid "New Reservation"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:25
+msgid "All Reservations"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:26
+msgid "View Reservation info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:48
+msgid "Add New Reservation Form"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:61
+msgid "Edit Service info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:62
+msgid "New Service"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:63
+msgid "All Services"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:64
+msgid "View Service info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:65
+msgid "Search Service"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:67
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:150
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:237
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:293
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:323
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:88
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:171
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:258
+msgid "Search Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:89
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:172
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:259
+msgid "All Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:90
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:173
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:260
+msgid "Parent Category"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:91
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:174
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:261
+msgid "Parent Category:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:92
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:175
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:262
+msgid "Edit Category"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:93
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:176
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:263
+msgid "Update Category"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:94
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:177
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:264
+msgid "Add New Category"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:95
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:178
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:265
+msgid "New Category Name"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:112
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:196
+msgid "Search Tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:113
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:197
+msgid "Popular Tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:114
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:198
+msgid "All Tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:117
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:201
+msgid "Edit Tagv"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:118
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:202
+msgid "Update Tag"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:119
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:203
+msgid "Add New Tag"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:120
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:204
+msgid "New Tag Name"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:121
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:205
+msgid "Separate tags with commas"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:122
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:206
+msgid "Add or remove tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:123
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:207
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:144
+msgid "Edit Work info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:145
+msgid "New Work"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:146
+msgid "All Works"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:147
+msgid "View Work info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:148
+msgid "Search Work"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:231
+msgid "Edit Career info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:232
+msgid "New Career"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:233
+msgid "All Careers"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:234
+msgid "View Career info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:235
+msgid "Search Career"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:286
+msgid "Add New Member"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:287
+msgid "Edit Member"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:288
+msgid "New Member"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:289
+msgid "All Members"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:290
+msgid "View Member"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:291
+msgid "Search Members"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:316
+msgid "Add New Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:317
+msgid "Edit Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:318
+msgid "New Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:319
+msgid "All Testimonials"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:320
+msgid "View Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/CUSTOM_POSTS.php:321
+msgid "Search Testimonials"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/common_includes/MENU.php:13
+msgid "Default Navigation"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/contactform.php:193
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/reservationform.php:221
+msgid "Sending ..."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/freebies.php:29
+msgid "Get Them All"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/login.php:17
+msgid "Login Form"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/login.php:19
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:21
+msgid "Username"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/login.php:21
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:23
+msgid "Password"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/login.php:25
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:27
+msgid "Remember Me"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/login.php:27
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:29
+msgid "Forgot Password?"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/minigallery.php:68
+msgid "prev"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/minigallery.php:69
+msgid "next"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:21
+msgid "Newsletter"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:35
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:27
+msgid "Thank you for your subscribtion."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:38
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:30
+msgid "Your email format is wrong!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:41
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:33
+msgid "Sad, but we couldn't add you to our mailing list ATM."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:48
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:40
+msgid "Your Email"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:51
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:43
+msgid "Loading..."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:54
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:44
+msgid "Also subscribe to our "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/newsletter.php:54
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:44
+msgid "RSS feed"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/slideshow.php:58
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/testimonials.php:61
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:55
+msgid "Next"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/slideshow.php:59
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/testimonials.php:60
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:54
+msgid "Prev"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/slide_works.php:29
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4964
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4968
+msgid "All"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/slide_works.php:41
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:5016
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:5020
+msgid "Freebies"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php:15
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/toggle_code.php:134
+msgid "Toggle Content (click to open)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/extensions/shortcodes/shortcodes/widget.php:29
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:21
+msgid "Home"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:193
+msgid "g:i a"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:196
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:196
+msgid "i"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:199
+msgid "g a"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:210
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:216
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:221
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:226
+msgid "Y"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:211
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:222
+msgid "F"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:212
+msgid "j"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:217
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:233
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:234
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:238
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/BREADCRUMBS.php:239
+msgid "404 Not Found"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:60
+msgid "New Message from"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:63
+msgid "From:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:67
+msgid "Email: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:68
+msgid "Name: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:69
+msgid "Subject: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:70
+msgid "Category: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:72
+msgid "You have a new message!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/CONTACTFORM.php:73
+msgid "Message:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:267
+msgid "No Comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:269
+msgid " Comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:271
+msgid "1 Comment"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:275
+msgid "Comments are off"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:356
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:359
+msgid "<img src=\""
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:369
+msgid "<span>⇐</span> Older "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:370
+msgid "Newer <span>⇒</span>"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4823
+msgid "Tag Archives: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4824
+msgid "Archive by Author"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4825
+msgid "Search results for: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4826
+msgid "404 Error"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4827
+msgid "Archive | "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:4884
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:5
+msgid "Share"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/theme_includes/THEME_FUNCTIONS.php:5594
+msgid "Sorry, there are no freebies."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:5
+msgid "Add a custom menus as a widget."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:6
+msgid "TFuse Custom Menu"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:60
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:66
+msgid "Widget Type:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:68
+msgid "Type 1"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:69
+msgid "Type 2"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:73
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:69
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Calendar.php:39
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:108
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Client.php:44
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:81
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:67
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Flickr.php:45
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Info.php:54
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:55
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:48
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:67
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:55
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:61
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:125
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Posts.php:62
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:67
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:102
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:63
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:79
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:103
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:102
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Text.php:49
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:127
+msgid "Title:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Nav_Menu_Widget.php:77
+msgid "Select Menu:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:5
+msgid "Adds manager for sidebar"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:7
+msgid "TFuse - Ads"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:40
+msgid "Ad :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:45
+msgid "Exemples :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:45
+msgid ""
+"Copy paste one of the examples below in the Ad area upstairs. Don't forget "
+"to modify the URL and path for the banners."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:49
+msgid "Ad 300x250 :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:54
+msgid "Ad 250x250 :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:59
+msgid "Ad 125x125 :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:64
+msgid "4 or more ads 125x125 :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:77
+msgid "Ad 160x600 :"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Adds.php:83
+msgid "Or you can get Google AdSense frome"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:5
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:6
+msgid "TFuse Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:17
+msgid "Archives"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:32
+msgid "Select Month"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:68
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:106
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:66
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:102
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:101
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:126
+msgid "Background"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:71
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:107
+msgid "Show post counts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Archives.php:73
+msgid "Display as a drop down"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Calendar.php:5
+msgid "A calendar of your site&#8217;s posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Calendar.php:6
+msgid "TFuse Calendar"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:5
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:6
+msgid "TFuse - Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:13
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:96
+msgid "Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:43
+msgid "Select Category"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:112
+msgid "Show as dropdown"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:115
+msgid "Show hierarchy"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:118
+msgid "Show empty categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Categories.php:121
+msgid "Show as subcategories menu"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Client.php:5
+msgid "Image in sidebar"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Client.php:6
+msgid "TFuse - Client"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Client.php:47
+msgid "Image Source:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:7
+msgid "Add Contact in Sidebar"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:8
+msgid "TFuse Contact Widgets"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:34
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:89
+msgid "Adress:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:39
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:93
+msgid "Phone:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:44
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:97
+msgid "Fax:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:49
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:101
+msgid "Email:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:79
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:122
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:63
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:144
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:123
+msgid "Footer"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Contact.php:85
+msgid "Name:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:5
+msgid "Send Feedback"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:6
+msgid "TFuse Feedback"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:39
+msgid "sending ..."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:43
+msgid "Your message has been sent!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:44
+msgid "Thank you for contacting us,"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:44
+msgid "We will get back to you within 2 business days."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:48
+msgid "Oops!"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Feedback.php:49
+msgid ""
+"Due to an unknown error, your form was not submitted, please resubmit it or "
+"try later."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Flickr.php:9
+msgid "TFuse - Flickr"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Flickr.php:50
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Flickr.php:54
+msgid "Number of photos"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Info.php:5
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Text.php:5
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Info.php:7
+msgid "TFuse Info"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Info.php:57
+msgid "Button Title:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Info.php:59
+msgid "Button Link:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Login.php:8
+msgid "TFuse - Login"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:5
+msgid "Log in/out, admin, feed and WP links"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:6
+msgid "TFuse Meta"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:11
+msgid "Meta"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:26
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:26
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:27
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:27
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Meta.php:28
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:9
+msgid "TFuse - Newsletter"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:38
+msgid ""
+"Stay in touch with the latest events & promos only by subscribing to our "
+"Newsletter."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Newsletter.php:71
+msgid "Activate RSS"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:5
+msgid "Your site&#8217;s WordPress Pages"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:6
+msgid "TFuse Pages"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:12
+msgid "Pages"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:58
+msgid "Sort by:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:60
+msgid "Page title"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:61
+msgid "Page order"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:62
+msgid "Page ID"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:66
+msgid "Exclude:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Pages.php:68
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:9
+msgid "TFuse - Popular Posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:14
+msgid "Popular Posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Popular_Post.php:65
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Posts.php:66
+msgid "Number of posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:5
+msgid "The most recent comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:6
+msgid "TFuse Recent Comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:40
+msgid "Recent Comments"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:119
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:60
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:151
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:141
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:120
+msgid "Position:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:121
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:62
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:143
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:122
+msgid "Sidebar"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Comments.php:128
+msgid "Number of comments to show:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Posts.php:8
+msgid "TFuse - Recent Posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Recent_Posts.php:13
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:44
+msgid "Recent Posts"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:8
+msgid "A search form for your site"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:9
+msgid "TFuse Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:18
+msgid "Search for:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:27
+msgid "Search this blog"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Search.php:28
+msgid "Search"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:33
+msgid "Show Selected Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:34
+msgid "TFuse Selected Categories"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php:109
+msgid "Select Categories List"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:5
+msgid "Show Selected Pages"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:6
+msgid "TFuse Selected Pages"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Selected_Pages.php:69
+msgid "Select Pages List"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:6
+msgid "TFuse Share"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:40
+msgid "Tweet"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:81
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:37
+msgid "Facebook"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:82
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:45
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:12
+msgid "Twitter"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:83
+msgid "Google +"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Share.php:84
+msgid "Likedin"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:7
+msgid "Add Social Networks in Sidebar "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:8
+msgid "TFuse Social Widgets"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:41
+msgid "Youtube"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:49
+msgid "LinkedIn"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:153
+msgid "Sidebar,Footer"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:154
+msgid "Footer 2"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:158
+msgid "Title: "
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:162
+msgid "Facebook:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:163
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:168
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:172
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:176
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:180
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:185
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:189
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:193
+msgid "Link:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:167
+msgid "Twitter:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:171
+msgid "LinkedIn:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:175
+msgid "Youtube:(Will not be appear in footer 2)"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:179
+msgid "Vimeo (Just in footer 2):"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:184
+msgid "Flickr (Just in footer 2):"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:188
+msgid "Dribbble (Just in footer 2):"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Social.php:192
+msgid "Forrst(Just in footer 2):"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:6
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:6
+msgid "Display tweets"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:7
+msgid "TFuse -Tabs"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:45
+msgid "Most Commented"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tabs.php:105
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:131
+msgid "Items:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:5
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:6
+msgid "TFuse Tag Cloud"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:18
+msgid "Tags"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:94
+msgid "Select from:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:97
+msgid "Works"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:98
+msgid "Services"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Tag_Cloud.php:104
+msgid "Taxonomy:"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:6
+msgid "Display and rotate your testimonials"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:7
+msgid "TFuse - Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:14
+msgid "Testimonial"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:147
+msgid "Title (just in footer):"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Testimonial.php:149
+msgid "Disable Random"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Text.php:7
+msgid "TFuse Text"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Text.php:54
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Text.php:55
+msgid "No Margin and padding"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:7
+msgid "TFuse - Twitter"
+msgstr ""
+
+#: E:\wamp1\wamp\www\agency.md\wp-content\themes\interakt-parent/theme_config/widgets/TFuse_Widget_Twitter.php:129
+msgid "Username:"
+msgstr ""
